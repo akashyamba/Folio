@@ -1,0 +1,71 @@
+@import url("http://fonts.googleapis.com/css?family=Inter");
+
+.header {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.rapper{
+  display: flex;
+  flex-direction: column;
+  /* margin: 60px 60px; */
+  max-width: 1280px;
+}
+
+.hero{
+  font-size: 48px;
+  font-weight: bolder;
+  padding: 200px;
+}
+
+.test {
+  background-color: beige;
+  padding: 60px;
+  height: 30vh;
+}
+
+.test1 {
+  background-color: white;
+  padding: 60px;
+  height: 30vh;
+}
+.app {
+  font-family: Inter;
+  display: flex;
+  justify-content: center;
+}
+
+.aboutme {
+}
+
+.body {
+  margin-bottom: 32px;
+  line-height: 1.5;
+}
+
+.primarybutton {
+  font-size: 16px;
+  padding: 12px 24px 12px 24px;
+  font-weight: bold;
+  border-radius: 999px;
+}
+
+.row {
+  font-size: 16px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.link{
+  padding: 24px;
+}
+
+.logo{
+  padding: 24px;
+  font-weight: bold;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+}
